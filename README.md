@@ -5,4 +5,4 @@ Files are extracted from rustlings project including my notes and solutions, all
 - more about rustlings at https://github.com/rust-lang/rustlings
 - please open pull requests and/or issues if you find any problems or better solutions
 
-- Knavels (Navid)
+Knavels (Navid)
